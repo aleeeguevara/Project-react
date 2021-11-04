@@ -1,0 +1,22 @@
+.card-list{
+    padding: 2em;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    background-color: white;
+    margin: 0.2em;
+    list-style-type: none;
+    
+}
+.card-item{
+    width: 30%;
+   
+}
+
+.category{
+    font-size: 1em;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    
+}

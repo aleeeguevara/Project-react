@@ -1,0 +1,44 @@
+.form{
+   padding: 2em 0em 2em 1em;
+   background-color: white;
+   margin: 0.2em 0 0.2em 0;
+   height: 100vh;
+}
+.form-title:focus-visible{
+    outline: none;
+}
+.form-title{
+    display: block;
+    margin-bottom: 1em;
+    padding: 0.5em 1em 0.5em 1em;
+    width: 90%;
+    background-color: thistle;
+    border: none;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.form-text:focus-visible{
+    outline: none;
+}
+.form-text{
+    width: 90%;
+    margin-bottom: 1em;
+    background-color: thistle;
+    border: none;
+    padding: 1em 1em 2em 1em ;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.form-text:focus-visible{
+    outline: none;
+}
+.form-btn{
+    float: right;
+    margin-right: 0.6em;
+    padding: 0.5em 3em 0.5em 3em;
+    border: purple;
+    background-color: rebeccapurple;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 100;
+    font-size: 0.9em;
+    
+}
