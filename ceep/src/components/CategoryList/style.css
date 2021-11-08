@@ -1,0 +1,30 @@
+.cat-sect{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+
+}
+.cat-list{
+    padding: 1em 0 1em 2em;
+    margin: 0.2em 0 0 0.2em;
+    display: flex;
+}
+.cat-list li{
+    list-style-type: none;
+    color: white;
+    font-size: 0.8em;
+    padding: 0.2em 0.5em 0.2em 0.5em;
+    margin: 0 2em 0 1em;
+    display: flex;
+    background-color: rebeccapurple;
+    border-radius: 1em;
+}
+.cat-input{
+    margin: 0 2em 0 0.2em;
+    display: flex;
+    height: 1.5em;
+    border-color: purple;
+    border-radius: 2em;
+   
+}

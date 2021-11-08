@@ -1,8 +1,9 @@
 .main-section{
-display: grid;
-grid-template-columns: 40% 60%;
-background-color: rebeccapurple;
-justify-content: space-between;
-overflow-x: hidden;
-font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: grid;
+    grid-template-columns: 40% 60%;
+    background-color: rebeccapurple;
+    justify-content: space-between;
+    overflow-x: hidden;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: 100vh;
 }
